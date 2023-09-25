@@ -6,7 +6,9 @@ authors = ["Anastasiia-MAriia Kovalyshyn <anastasiyakovalyshyn@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "3.10.13"
+pandas = "^2.1.1"
+pyspark = "^3.4.1"
 
 
 [build-system]
